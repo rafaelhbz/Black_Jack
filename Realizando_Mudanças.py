@@ -231,3 +231,37 @@ while game_init == True:
     quer_jogar = str(input("Deseja continuar jogando? "))
     if quer_jogar == "Fim" or quer_jogar == "fim":
         game_init = False
+
+
+print('                                         *          ')
+print('                                       *   *        ')
+print(' *       *    * * * *     * * * *     * * * *       ')
+print('  *     *     *     *     *           *             ')
+print('   *   *      *     *     *           * * * *       '  )
+print('    * *       *     *     *           *              ')
+print('     *        * * * *     * * * *     * * * *          ' )
+print('')
+print('')
+print('  * * * *     * * * *      * * * *    * * *     * * * *   *     *          ')
+print('  *     *     *            *     *    *     *   *         *     *      ')
+print('  * * * *     * * * *      * * * *    *     *   * * * *   *     *         ')
+print('  *           *            * *        *     *   *         *     *   ')
+print('  *           * * * *      *   *      * * *     * * * *   * * * *     ')
+print('')
+print('')
+print(' *   .        * * * * * * * *                            ')
+print('  *  *     *                  *      \                       ')
+print('* .  * *   *     *      *     *     -- **********/             ')
+print('  * . * ** *   * * *  * * *   *     -- ************             ')
+print('*  . * *   *     *      *     *      /          ****            ')
+print('  . *      *                  *                  ****             ')
+print('*  .       *       *****      *                          ')
+print('  *        *       *   *      *              ')
+print(' * * .     *        ***       *             ')
+print('  *         * * * * * * * * *                ')
+
+
+
+
+
+
